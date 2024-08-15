@@ -1,19 +1,19 @@
 // toString method
 var num1 = 10;
 num1 = toString(num1);
-console.log(typeof(num1));
+console.log(typeof (num1));
 
 // parseFloat method
 var num2 = "10.234";
 num2 = parseFloat(num2);
 console.log(num2);
-console.log(typeof(num2));
+console.log(typeof (num2));
 
 
 // parseInt method
 var value = "12";
 value = parseInt(value);
-console.log(typeof(value));
+console.log(typeof (value));
 
 
 // toFixed method
