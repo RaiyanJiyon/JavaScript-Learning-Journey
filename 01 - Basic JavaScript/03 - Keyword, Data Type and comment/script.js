@@ -1,5 +1,5 @@
 // Declare a variable using let keyword
-let name = "Jiyon"; // name is a string
+let name = "John"; // name is a string
 
 // Declare a constant using const keyword
 const pi = 3.14; // pi is a number
