@@ -1,0 +1,12 @@
+.btn {
+    width: 100px;
+    height: 50px;
+    margin-right: 10px;
+    background-color: aqua;
+    font-size: 2rem;
+}
+
+.hover {
+    box-shadow: 4px 4px 6px hotpink;
+    width: 120px;
+}
