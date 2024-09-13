@@ -11,7 +11,7 @@ let p2 = {
 };
 
 // Merge p1 and p2 into a new object 'p' using the spread operator
-let p = { ...p1, ...p2 };
+let p = {...p1, ...p2};
 console.log(p);  // Output: {name: "John Wick", age: 25, nationality: "Russian", occupation: "Actor"}
 
 
