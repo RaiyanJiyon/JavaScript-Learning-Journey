@@ -33,5 +33,5 @@ console.log(product1.price);
 product1.price = 90000;
 console.log(product1.price);
 
-product1.price = -90000;
+product1.price = -100;
 console.log(product1.price);
